@@ -11,5 +11,9 @@
     ],
     "profile": {
       "name": "typicode"
+    },
+    "produk": {
+      "name": "oreo",
+      "type": "snack"
     }
   }
