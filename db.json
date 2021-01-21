@@ -1,19 +1,17 @@
 
 {
-    "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" },
-      { "id": 3, "title": "Post 3" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
-    ],
-    "profile": {
-      "name": "typicode"
-    },
-    "produk": {
-      "name": "oreo",
-      "type": "snack"
-    }
-  }
+    "produkMainCollection": [
+      {
+      "id": "pec001",
+      "img": "pencil-graf.jpg",
+      "type": "pencil",
+      "desc": "Pensil grafit stik tercipta dari perpaduan bubuk grafit dan lempung yang telah melewati proses kompresi dengan suhu tinggi. Pengolahan ini membuat bentuknya menjadi solid dan mudah dipegang. Jenis pensil ini tersedia dalam berbagai bentuk, ukuran, dan tingkat kekerasan yang ditentukan dari kadar campuran lempung, cocok untuk menggambar bayangan, arsiran gelap, atau blok dalam komposisi yang banyak di atas kertas. Dengan berbagai variasinya, Anda akan lebih mudah membuat goresan dan garis-garis gelap dari pensil."
+      },
+      {
+      "id": "pen001",
+      "img": "pulpen-gel-ink.jpg",
+      "type": "pen",
+      "desc": "Pulpen gel merupakan alat tulis yang tintanya terbuat dari gel. Keistimewaan pulpen ini adalah warna tintanya yang bervariasi sehingga dapat digunakan untuk berbagai kreativitas penggunanya. Saat ini, terdapat banyak pilihan merek pulpen gel yang mungkin membuat Anda bingung ketika memilih, so kita lihat saja pilihan dari kami dan tidak membuat anda binggung."
+      }
+  ]
+}
