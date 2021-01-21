@@ -22,5 +22,285 @@
         "type": "eraser",
         "desc":"Penghapus elektrik yang menggunakan tenaga baterai. Bekerja otomatis menghapus tulisan atau gambar yang Anda buat dengan pensil. Penghapus elektrik ini menggunakan tenaga dinamo yang bergerak memutar sehingga alat akan menghapus secara otomatis saat di dekatkan ke arah gambar/tulisan yang akan kita hapus, Ayo pesan sekarang juga."
       }
+  ],
+  "pencilCollection": [
+    {
+      "id": "pec001",
+      "name": "Erelasol",
+      "desc": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+      "type": "pencil",
+      "review": "",
+      "starrating": 3,
+      "price": 1.99,
+      "img": "pec1.jpg"
+    },
+    {
+      "id": "pec002",
+      "name": "Sigma",
+      "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto velit dolores repudiandae animi quidem, eveniet quod dolor facilis dicta eligendi ullam error. Assumenda in fugiat natus enim similique nam itaque.",
+      "type": "pencil",
+      "review": "",
+      "starrating": 3,
+      "price": 1.99,
+      "img": "pec2.jpg"
+    },
+    {
+      "id": "pec003",
+      "name": "Evos",
+      "desc": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+      "type": "pencil",
+      "review": "",
+      "starrating": 3,
+      "price": 1.99,
+      "img": "pec3.jpg"
+    },
+    {
+      "id": "pec004",
+      "name": "Kitaran",
+      "desc": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+      "type": "pencil",
+      "review": "",
+      "starrating": 3,
+      "price": 2.89,
+      "img": "pec4.jpg"
+    },
+    {
+      "id": "pec005",
+      "name": "Simpit",
+      "desc": "dolor sit amet consectetur adipisicing elit. Iusto velit dolores repudiandae animi quidem, eveniet quod dolor facilis dicta eligendi ullam error. Assumenda in fugiat natus enim similique nam itaque.",
+      "type": "pencil",
+      "review": "",
+      "starrating": 3,
+      "price": 1.99,
+      "img": "pec5.jpg"
+    },
+    {
+      "id": "pec006",
+      "name": "Evolution",
+      "desc": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. ipsum, dolor sit amet consectetur adipisicing elit. Iusto velit dolores repudiandae animi quidem, eveniet quod dolor facilis dicta eligendi ullam error. Assumenda in fugiat natus enim similique nam itaque.",
+      "type": "pencil",
+      "review": "",
+      "starrating": 3,
+      "price": 1.00,
+      "img": "pec6.jpg"
+    },
+    {
+      "id": "pec007",
+      "name": "New Morda",
+      "desc": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+      "type": "pencil",
+      "review": "",
+      "starrating": 3,
+      "price": 1.99,
+      "img": "pec7.jpg"
+    },
+    {
+      "id": "pec008",
+      "name": "Nex",
+      "desc": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+      "type": "pencil",
+      "review": "",
+      "starrating": 3,
+      "price": 1.29,
+      "img": "pec8.jpg"
+    },
+    {
+      "id": "pec009",
+      "name": "Ifrin",
+      "desc": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+      "type": "pencil",
+      "review": "",
+      "starrating": 3,
+      "price": 2.49,
+      "img": "pec9.jpg"
+    }
+  ],
+  "penCollection": [
+    {
+      "id": "pen001",
+      "name": "Japan1",
+      "desc": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+      "type": "pen",
+      "review": "",
+      "starrating": 3,
+      "price": 2.99,
+      "img": "pen1.jpg"
+    },
+    {
+      "id": "pen002",
+      "name": "Polar",
+      "desc": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+      "type": "pen",
+      "review": "",
+      "starrating": 3,
+      "price": 2.99,
+      "img": "pen2.jpg"
+    },
+    {
+      "id": "pen003",
+      "name": "Miss",
+      "desc": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+      "type": "pen",
+      "review": "",
+      "starrating": 3,
+      "price": 2.99,
+      "img": "pen3.jpg"
+    },
+    {
+      "id": "pen004",
+      "name": "XZN",
+      "desc": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. ipsum, dolor sit amet consectetur adipisicing elit. Iusto velit dolores repudiandae animi quidem, eveniet quod dolor facilis dicta eligendi ullam error. Assumenda in fugiat natus enim similique nam itaque.",
+      "type": "pen",
+      "review": "",
+      "starrating": 3,
+      "price": 2.29,
+      "img": "pen4.jpg"
+    },
+    {
+      "id": "pen005",
+      "name": "Cintiam",
+      "desc": "dolor sit amet consectetur adipisicing elit. Iusto velit dolores repudiandae animi quidem, eveniet quod dolor facilis dicta eligendi ullam error. Assumenda in fugiat natus enim similique nam itaque.",
+      "type": "pen",
+      "review": "",
+      "starrating": 3,
+      "price": 1.19,
+      "img": "pen5.jpg"
+    },
+    {
+      "id": "pen006",
+      "name": "Labour",
+      "desc": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+      "type": "pen",
+      "review": "",
+      "starrating": 3,
+      "price": 3.99,
+      "img": "pen6.jpg"
+    },
+    {
+      "id": "pen007",
+      "name": "Cuty Pen",
+      "desc": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+      "type": "pen",
+      "review": "",
+      "starrating": 3,
+      "price": 2.99,
+      "img": "pen7.jpg"
+    },
+    {
+      "id": "pec008",
+      "name": "Miau",
+      "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto velit dolores repudiandae animi quidem, eveniet quod dolor facilis dicta eligendi ullam error. Assumenda in fugiat natus enim similique nam itaque.",
+      "type": "pen",
+      "review": "",
+      "starrating": 3,
+      "price": 12.99,
+      "img": "pen8.jpg"
+    },
+    {
+      "id": "pec009",
+      "name": "Penx",
+      "desc": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+      "type": "pen",
+      "review": "",
+      "starrating": 3,
+      "price": 2.99,
+      "img": "pen9.jpg"
+    }
+  ],
+  "eraserCollection": [
+    {
+      "id": "er001",
+      "name": "Gone",
+      "desc": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+      "type": "eraser",
+      "review": "",
+      "starrating": 3,
+      "price": 0.99,
+      "img": "er1.jpg"
+    },
+    {
+      "id": "er002",
+      "name": "Step",
+      "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto velit dolores repudiandae animi quidem, eveniet quod dolor facilis dicta eligendi ullam error. Assumenda in fugiat natus enim similique nam itaque.",
+      "type": "eraser",
+      "review": "",
+      "starrating": 3,
+      "price": 1.99,
+      "img": "er2.jpg"
+    },
+    {
+      "id": "er003",
+      "name": "Ball Circle",
+      "desc": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+      "type": "eraser",
+      "review": "",
+      "starrating": 3,
+      "price": 1.55,
+      "img": "er3.jpg"
+    },
+    {
+      "id": "er004",
+      "name": "Nurran",
+      "desc": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+      "type": "eraser",
+      "review": "",
+      "starrating": 3,
+      "price": 1.00,
+      "img": "er4.jpg"
+    },
+    {
+      "id": "er005",
+      "name": "Romeo",
+      "desc": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+      "type": "eraser",
+      "review": "",
+      "starrating": 3,
+      "price": 0.69,
+      "img": "er5.jpg"
+    },
+    {
+      "id": "er006",
+      "name": "Hidex",
+      "desc": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. ipsum, dolor sit amet consectetur adipisicing elit. Iusto velit dolores repudiandae animi quidem, eveniet quod dolor facilis dicta eligendi ullam error. Assumenda in fugiat natus enim similique nam itaque.",
+      "type": "eraser",
+      "review": "",
+      "starrating": 3,
+      "price": 1.20,
+      "img": "er6.jpg"
+    },
+    {
+      "id": "er007",
+      "name": "Moon Seen",
+      "desc": "dolor sit amet consectetur adipisicing elit. Iusto velit dolores repudiandae animi quidem, eveniet quod dolor facilis dicta eligendi ullam error. Assumenda in fugiat natus enim similique nam itaque.",
+      "type": "eraser",
+      "review": "",
+      "starrating": 3,
+      "price": 1.99,
+      "img": "er7.jpg"
+    },
+    {
+      "id": "er008",
+      "name": "Era01",
+      "desc": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+      "type": "eraser",
+      "review": "",
+      "starrating": 3,
+      "price": 1.00,
+      "img": "er8.jpg"
+    },
+    {
+      "id": "er009",
+      "name": "Eraduve",
+      "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto velit dolores repudiandae animi quidem, eveniet quod dolor facilis dicta eligendi ullam error. Assumenda in fugiat natus enim similique nam itaque.",
+      "type": "eraser",
+      "review": "",
+      "starrating": 3,
+      "price": 2.79,
+      "img": "er9.jpg"
+    }
   ]
+
+
+
+
 }
