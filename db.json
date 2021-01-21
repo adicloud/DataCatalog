@@ -5,13 +5,19 @@
       "id": "pec001",
       "img": "pencil-graf.jpg",
       "type": "pencil",
-      "desc": "Pensil grafit stik tercipta dari perpaduan bubuk grafit dan lempung yang telah melewati proses kompresi dengan suhu tinggi. Pengolahan ini membuat bentuknya menjadi solid dan mudah dipegang. Jenis pensil ini tersedia dalam berbagai bentuk, ukuran, dan tingkat kekerasan yang ditentukan dari kadar campuran lempung, cocok untuk menggambar bayangan, arsiran gelap, atau blok dalam komposisi yang banyak di atas kertas. Dengan berbagai variasinya, Anda akan lebih mudah membuat goresan dan garis-garis gelap dari pensil."
+      "desc": "Pensil grafit stik tercipta dari perpaduan bubuk grafit dan lempung yang telah melewati proses kompresi dengan suhu tinggi. Pengolahan ini membuat bentuknya menjadi solid dan mudah dipegang. Jenis pensil ini tersedia dalam berbagai bentuk, ukuran, dan tingkat kekerasan yang ditentukan dari kadar campuran lempung, cocok untuk menggambar bayangan, arsiran gelap, atau blok dalam komposisi yang banyak di atas kertas. Dengan berbagai variasinya, Anda akan lebih mudah membuat goresan dan garis-garis gelap dari pensil, ambil yuk."
       },
       {
       "id": "pen001",
       "img": "pulpen-gel-ink.jpg",
       "type": "pen",
       "desc": "Pulpen gel merupakan alat tulis yang tintanya terbuat dari gel. Keistimewaan pulpen ini adalah warna tintanya yang bervariasi sehingga dapat digunakan untuk berbagai kreativitas penggunanya. Saat ini, terdapat banyak pilihan merek pulpen gel yang mungkin membuat Anda bingung ketika memilih, so kita lihat saja pilihan dari kami dan tidak membuat anda binggung."
+      },
+      {
+        "id": "er001",
+        "img": "eraser-electric.jpg",
+        "type": "eraser",
+        "desc":"Penghapus elektrik yang menggunakan tenaga baterai. Bekerja otomatis menghapus tulisan atau gambar yang Anda buat dengan pensil. Penghapus elektrik ini menggunakan tenaga dinamo yang bergerak memutar sehingga alat akan menghapus secara otomatis saat di dekatkan ke arah gambar/tulisan yang akan kita hapus, Ayo pesan sekarang juga."
       }
   ]
 }
